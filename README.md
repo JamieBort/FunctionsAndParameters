@@ -13,4 +13,3 @@ Do not open `solutions.js` until you've solved the problems. When complete, revi
 ## Your role as a student
 
 Articulate their ideas as best you can. Try to facilitate effective collaboration with your paired student. Be willing to debate strategies for how best to approach your challenge, but don’t allow endless debate to keep you from making progress. Keep your eye on the clock and try to work yourself through the challenge at a reasonable pace. You and your partner should share the responsibility for authoring ideas and code. Finish your challenge and make certain that you call talk someone through the logic and strategies implemented by your group.
-# FunctionsAndParameters
